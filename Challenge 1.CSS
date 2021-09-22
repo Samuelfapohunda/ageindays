@@ -1,0 +1,41 @@
+.primary-btn {
+background-color: #007AF3;
+      color: white;
+      text-decoration: none;
+       padding: .6em 1.3em;
+      font-size: 1.4em;
+      border-radius: 1em;
+      font-weight: bold;
+      display: inline-block;
+      }
+      .secondary-btn {
+      background-color: green;
+      color: white;
+      text-decoration: none;
+      padding: .6em 1.3em;
+      font-size: 1.4em;
+      border-radius: 1em;
+      font-weight: bold;
+      display: inline-block;
+        }	
+        
+        .flex-box-container-1 {
+        	display: flex;
+        flex-wrap: wrap;
+        border: 1px solid black;
+        justify-content: space-around;
+        padding: 10px;
+        align-items: center;
+              }
+        .flex-box-container-1 div {
+        	padding: 10px;
+        border: 1px solid black;
+        align-items: center;
+        display: flex;
+        }
+        .container{
+        	border: 1px solid black;
+        }
+        
+             
+        	
